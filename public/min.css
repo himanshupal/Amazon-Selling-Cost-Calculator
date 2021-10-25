@@ -1,0 +1,20 @@
+input,
+select,
+textarea {
+  padding: 6 px 12 px;
+  margin-bottom: 0.5 rem;
+  background: var(--nc-bg-2);
+  color: var(--nc-tx-2);
+  border: 1 px solid var(--nc-bg-3);
+  border-radius: 4 px;
+  box-shadow: none;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.wrapper {
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 100%;
+  white-space: nowrap;
+}
